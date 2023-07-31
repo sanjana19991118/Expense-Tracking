@@ -1,0 +1,70 @@
+.body, html {
+   margin : 0;
+   height: 100%;  
+   
+}
+.collection-create-form_last-form-item {
+  margin-bottom: 0;
+}
+
+
+
+.bg { 
+    /* The image used */
+    background-image: url(../Images/money.png); 
+    /* background-image: url(../Images/exbac.avif);
+
+    /* Full height */
+    height:400vh;
+    /* float: left; */
+    /* Center and scale the image nicely */
+    background-position: 1px 100px;
+    background-repeat: no-repeat; 
+    /* height: 2000px;  */
+    /* background-color: #ffffcc; */
+    background-attachment: fixed;
+    background-size: 480px 880px ; 
+    margin-left: -100px;
+} 
+
+.backcloth  {
+   background-color: white;
+   /* position: fixed; */
+} 
+
+.card-img {
+     background-image: url('../Images/profile-grl.jpg');
+     background-repeat: no-repeat;
+     background-size: 150px 150px;
+}
+
+.profile {
+    /* The image used */
+    /* background-image: url(../Images/money.png); */
+
+    /* Full height */
+    height:180vh;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 500px 500px;
+    background-attachment: fixed;
+}
+
+
+.profile-card {
+  position: relative;
+  position: fixed;
+   width: 700px;
+   height: 500px;
+   margin-left: 550px;
+   margin-right : 10px;
+   margin-top: -2520px;
+  
+}
+
+.profile-card:focus {
+  box-shadow: 0 0 0 0.4rem rgba(40, 167, 69, 0.25);
+}
+

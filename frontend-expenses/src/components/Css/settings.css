@@ -1,0 +1,58 @@
+.body, html {
+   margin : 0;
+   height: 100%;  
+}
+/* .settings-background {
+    /* The image used */
+    /* background-image: url(../Images/money.png); */
+
+    /* Full height */
+    /* height:180vh;
+
+    /* Center and scale the image nicely */
+    /* background-position: center;
+    background-repeat: no-repeat;
+    background-size: 500px 500px;
+    background-attachment: fixed; */ 
+/* } */ 
+
+.bg { 
+    /* The image used */
+    background-image: url(../Images/money.png); 
+    /* background-image: url(../Images/exbac.avif);
+
+    /* Full height */
+    height:400vh;
+    /* float: left; */
+    /* Center and scale the image nicely */
+    background-position: 1px 100px;
+    background-repeat: no-repeat; 
+    /* height: 2000px;  */
+    /* background-color: #ffffcc; */
+    background-attachment: fixed;
+    background-size: 480px 880px ; 
+    margin-left: -100px;
+} 
+/* 
+.center {
+  position: absolute ;
+  margin-left: 830px;
+  top: 50px;
+  width: 40%;
+  padding: 80px ;
+  text-align: center;
+  list-style-type: none;
+  text-decoration-line: none;
+}
+
+.center li  {
+  display: inline-block;
+  padding: 0  5px  0  5px;
+  /* top right botton left */
+  /* font-size: 12px;
+  margin: auto;
+  width : 20%;
+  list-style-type: none;
+  text-decoration-line: none; 
+} */ 
+

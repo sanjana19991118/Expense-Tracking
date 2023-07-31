@@ -1,0 +1,15 @@
+.form-control {
+        border-color: #28a745;
+        box-shadow: 0 0 0 0.2rem rgba(40, 167, 69, 0.25);
+    } 
+
+.form-control:focus {
+        border-color: #28a745;
+        box-shadow: 0 0 0 0.4rem rgba(40, 167, 69, 0.25);
+} 
+.search-design {
+   width: 450px;
+   margin-left : 600px;
+   margin-top : 10px;
+   padding: 5px;
+}

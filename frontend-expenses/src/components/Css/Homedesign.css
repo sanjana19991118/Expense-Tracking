@@ -1,0 +1,40 @@
+.body, html {
+   margin : 0;
+   height: 100%;  
+}
+.bg { 
+    /* The image used */
+    background-image: url(../Images/money.png); 
+    /* background-image: url(../Images/exbac.avif);
+
+    /* Full height */
+    height:400vh;
+    /* float: left; */
+    /* Center and scale the image nicely */
+    background-position: 1px 100px;
+    background-repeat: no-repeat; 
+    /* height: 2000px;  */
+    /* background-color: #ffffcc; */
+    background-attachment: fixed;
+    background-size: 480px 880px ; 
+    margin-left: -100px;
+} 
+.center-ex {
+    /* margin-top: 60px; */
+    margin-left: 2px;
+}
+
+/* .search {
+    margin-top: 90px;
+    margin-left: 600px;
+} */
+
+/* .ex-form {
+    margin-left: 10px; 
+} */
+
+.page {
+    margin-top: 2px;
+    margin-left : 15px;
+}
+

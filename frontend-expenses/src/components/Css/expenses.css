@@ -1,0 +1,122 @@
+.body, html {
+   margin : 0;
+   height: 100%;  
+   
+}
+.collection-create-form_last-form-item {
+  margin-bottom: 0;
+}
+
+
+.bg { 
+    /* The image used */
+    background-image: url(../Images/money.png); 
+    /* background-image: url(../Images/exbac.avif);
+
+    /* Full height */
+    height:400vh;
+    /* float: left; */
+    /* Center and scale the image nicely */
+    background-position: 1px 100px;
+    background-repeat: no-repeat; 
+    /* height: 2000px;  */
+    /* background-color: #ffffcc; */
+    
+    background-attachment: fixed;
+    background-size: 480px 880px ; 
+    margin-left: -100px;
+} 
+
+ /* .background {  */
+     /* The image used */
+    /* background-image: url(../Images/exbac.avif);  */
+    /* Full height */
+    /* height:150vh; */
+    /* Center and scale the image nicely  */
+    /* background-position: center;
+    background-repeat: no-repeat;  */
+    /* height: 2000px; */
+    /* background-color: #ffffcc;  */
+    /* background-size: 1500px 1800px;
+    background-attachment: fixed;  */
+ /* }    */
+
+.backcloth  {
+   background-color: white;
+   position: fixed;
+} 
+
+/* .container {
+  padding: 2rem 0rem;
+} */
+
+/* h4 {
+  margin: 2rem 0rem 1rem;
+} */
+/* 
+.hr{
+  color: white;
+  width:50%;
+} */
+
+/* 
+.expense-form {
+   padding: 5px;
+   margin-top: 5px;
+   margin-left: 128px;
+} */
+
+.expense-card {
+  position: sticky;
+  position: fixed;
+  display: inline-block;
+   width: 880px;
+   margin-left: 455px;
+   margin-right : 5px;
+   margin-top: -1880px;
+}
+
+.expense:focus {
+  box-shadow: 0 0 0 0.4rem rgba(40, 167, 69, 0.25);
+}
+
+
+.add {
+   margin-left : -410px ; 
+   padding: 5px 40px 5px 40px ; 
+   margin-bottom: 20px;
+   box-shadow:  0 0 0 0.2rem rgba(40, 167, 69, 0.25) ;
+}
+
+.add:hover {
+  box-shadow: 0 0 0 0.4rem rgba(40, 167, 69, 0.25);
+}
+
+/* {{ marginLeft : "-410px", padding : " 5px 40px 5px 40px" , boxShadow: "0 0 0 0.2rem rgba(40, 167, 69, 0.25)" }} */
+
+
+/* .table-image {
+  /* td, th {
+    vertical-align: middle;
+  } */
+
+
+.table {
+   border : 2px solid #339966;
+   border-radius: 8px;
+   box-shadow: 0 0 0 0.2rem rgba(40, 167, 69, 0.25);
+}
+
+.table-list {
+   margin-left: -220px;
+   width: 700px;
+}
+
+.table:hover {
+   box-shadow: 0 0 0 0.4rem rgba(40, 167, 69, 0.25);
+}
+
+.table {
+  margin-left: 50px;
+  margin-top: 10px;
+}

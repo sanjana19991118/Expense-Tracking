@@ -1,0 +1,115 @@
+/* style in chartAnother */
+.parent {
+   width : 50%;
+}
+.child {
+  float: left; 
+  width: 50%;
+}
+.dough {
+    margin-top: 200px;
+    margin-left: 50%; 
+    height: 80px; 
+}
+.pie{
+   margin-top: 50px;
+   margin-left: 90%; 
+   height: 40px; 
+   
+}
+
+/* style in Doughnut */
+/* separate first header and chart */
+.first { 
+  width : 50%;
+}
+.first-child {
+  float: left; 
+  width: 50%;
+}
+.div{
+  float: left;
+  padding: 5px;
+}
+.div1{
+    margin-top: 5px;
+    margin-left: 5%; 
+    height: 80px; 
+     width: 100px;
+}
+.div2{
+    margin-top: -10px;
+    margin-left: 50%; 
+    height: 80px;
+    width: 120px; 
+}
+.div3{
+  margin-top: 10px;
+  margin-left: 50%;
+  height: 80px;
+  width: 150px;
+}
+
+h6{
+  font-weight: bold;
+  font-size: 15px;
+  /* color: #669999; */
+}
+
+p{
+  font-weight: normal;
+  font-size: 15px;
+  /* color: #669999; */
+
+}
+
+.card-chart {
+  box-shadow: 0 0 0 0.2rem rgb(255, 255, 102);
+}
+
+.card-chart:hover {
+   box-shadow: 0 0 0 0.4rem rgb(255, 255, 102);
+}
+
+
+/* /* #formFile::before {
+  content: "Pick file";
+  position: absolute;
+  z-index: 2;
+  display: block;
+  background-color: #eee;
+  width: 80px;
+} */
+/* 
+.relocate{
+   float: right; 
+   margin-right: 2px;
+} */
+/* 
+.sidebyside {
+  float:left;
+  padding: 15px;
+} */
+/* 
+.div1 {
+  
+}
+
+.div2 {
+   font-size: 25px;
+} */
+
+
+/* 
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+/* .row::after {
+  content: "";
+  clear: both;
+  display: table;
+}   */

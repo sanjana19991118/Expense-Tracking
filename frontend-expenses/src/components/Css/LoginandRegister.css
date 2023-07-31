@@ -1,0 +1,44 @@
+.body, html {
+   margin : 0;
+   height: 100%;  
+}
+.back-ground {
+    /* The image used */
+    background-image: url(../Images/money.png);
+
+    /* Full height */
+    height:400vh;
+
+    /* Center and scale the image nicely */
+    background-position: 1px 100px;
+    background-repeat: no-repeat;
+    background-size: 480px 880px ;
+    background-attachment: fixed;
+}
+
+.center-register {
+  position: absolute ;
+  margin-left: 830px;
+  top: 50px;
+  width: 40%;
+  padding: 80px ;
+  text-align: center;
+  list-style-type: none;
+  text-decoration-line: none;
+}
+
+.center li  {
+  display: inline-block;
+  padding: 0  5px  0  5px;
+  /* top right botton left */
+  font-size: 12px;
+  margin: auto;
+  width : 20%;
+  list-style-type: none;
+  text-decoration-line: none; 
+}
+
+.account{
+   position: fixed;
+}
+

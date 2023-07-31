@@ -1,0 +1,28 @@
+.page{
+   padding: "30px 15px 30px 15px";
+   margin-left: -400px;
+}
+
+.pagination {
+   border: 2px solid #339966;
+   box-shadow: 0 0 0 0.2rem rgba(40, 167, 69, 0.25);
+   border-radius: 8px;
+   width: 373px;
+}
+
+.pagination:hover {
+   border: 2px solid #339966;
+   box-shadow: 0 0 0 0.2rem rgba(40, 167, 69, 0.25);
+   border-radius: 8px;
+   width: 373px;
+}
+
+.pagination > li > a:focus,
+.pagination > li > a:hover
+{
+    background-color: #66ccff;
+    box-shadow: 0 0 0 0.2rem rgba(40, 167, 69, 0.25);
+    color: green;
+}
+
+/* #339966 */

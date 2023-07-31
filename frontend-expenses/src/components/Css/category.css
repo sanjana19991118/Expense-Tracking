@@ -1,0 +1,94 @@
+.body, html {
+   margin : 0;
+   height: 100%;  
+}
+.category-background {
+    /* The image used */
+    /* background-image: url(../Images/expense-pic.jpeg); */
+
+    /* Full height */
+    height:180vh;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 500px 500px;
+    background-attachment: fixed;
+}
+
+.category-background-list {
+    /* The image used */
+    /* background-image: url(../Images/money.png); */
+
+    /* Full height */
+    height:180vh;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 500px 500px;
+    background-attachment: fixed;
+}
+
+
+        
+
+/* .center-clist {
+  position: absolute ;
+  margin-left: 430px;
+  top: 300px;
+  width: 30%;
+  padding: 80px ;
+  text-align: center;
+  list-style-type: none;
+  text-decoration-line: none;
+} */
+
+.center {
+  position: absolute;
+  position: fixed;
+  margin-left: 780px;
+  top: 80px;
+  width: 27%;
+  padding: 50px ;
+  text-align: center;
+  list-style-type: none;
+  text-decoration-line: none;
+}
+
+.center-clist {
+  position: absolute;
+  position: fixed;
+  margin-left: 1080px;
+  top: 80px;
+  width: 30%;
+  padding: 50px ;
+  text-align: center;
+  list-style-type: none;
+  text-decoration-line: none;
+}
+
+.center-label {
+  text-align: left;
+}
+.center li  {
+  display: inline-block;
+  padding: 0  5px  0  5px;
+  /* top right botton left */
+  font-size: 12px;
+  margin: auto;
+  width : 20%;
+  list-style-type: none;
+  text-decoration-line: none; 
+}
+
+
+.category-form {
+   width : 200px;
+   padding: 5px;
+}
+
+.submit {
+   padding : 5px 25px 5px 25px;
+}
+
