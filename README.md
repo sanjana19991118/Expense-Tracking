@@ -3,7 +3,7 @@
 Screen Shots of Expense Tracking Application 
 
 
-
+![0](https://github.com/sanjana19991118/Expense-Tracking/assets/69705801/646cbc31-2bfa-4ae4-9191-bcb733cd4884)
 
 ![1](https://github.com/sanjana19991118/Expense-Tracking/assets/69705801/5b3ce46f-8843-4eaa-8c36-067e84c9751a)
 
